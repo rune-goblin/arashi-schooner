@@ -2,7 +2,8 @@
   "id": "arashi-schooner",
   "title": "Arashi Schooner",
   "description": "Maps for a schooner above and below decks.",
-  "version": "3.0.0",
+  "version": "3.0.1",
+  "license": "LICENSE",
   "compatibility": {
     "minimum": 12,
     "verified": 13
